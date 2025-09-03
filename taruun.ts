@@ -1,2 +1,2 @@
-console.log("Hello, Taruun Prasaath!");
+console.log("Hello, TP!");
 console.log("Hello, Mounesh");
