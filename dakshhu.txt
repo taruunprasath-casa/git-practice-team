@@ -1,3 +1,6 @@
 dakku's version try 102222
+<<<<<<< HEAD
 dakku's version try 102
 
+=======
+>>>>>>> 8615bed9682a8b813fa5b6a28cd4c8fba70ebf6b

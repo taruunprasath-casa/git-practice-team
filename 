@@ -1,0 +1,148 @@
+[33mcommit f1ca160338acd48ad22fa31c387f0647323ac21e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdakku[m[33m)[m
+Merge: 7a4f06b efb0a2c
+Author: Dakshinya Loganathan <dakshinya@ajirasoft.com>
+Date:   Wed Sep 3 12:53:41 2025 +0530
+
+    Merge branch 'rithiga' into dakku
+
+[33mcommit efb0a2c801d80d533106f32c6f0f57f0a875dda3[m[33m ([m[1;31morigin/rithiga[m[33m, [m[1;32mrithiga[m[33m)[m
+Merge: 782aad9 ffa2d93
+Author: Rithiga <rithiga2026@gmail.com>
+Date:   Wed Sep 3 12:45:20 2025 +0530
+
+    Merge branch 'Monkey.d.luffy' into rithiga
+    
+    merginggg monkeyy
+
+[33mcommit ffa2d937517ce596619b2a31f321cddce8a63d17[m
+Author: Mounesh <mounesh@ajirasoft.com>
+Date:   Wed Sep 3 12:44:23 2025 +0530
+
+    luffy:
+    git commit -m luffy:
+
+[33mcommit 7a4f06b0bbd7be2b65c78871cc82f3abe9243feb[m[33m ([m[1;31morigin/dakku[m[33m)[m
+Author: Mounesh <mounesh@ajirasoft.com>
+Date:   Wed Sep 3 12:38:17 2025 +0530
+
+    Changed name
+
+[33mcommit 782aad927d855b11eb400267013dc3af6e0e51aa[m
+Author: Taruun Prasath G S <taruunprasath@ajirasoft.com>
+Date:   Wed Sep 3 12:08:41 2025 +0530
+
+    Taruun | Hello Taruun
+
+[33mcommit d45d094c40c30d779ffb53cf27f2e6a5ad4bc675[m
+Author: Mounesh <mounesh@ajirasoft.com>
+Date:   Wed Sep 3 11:06:03 2025 +0530
+
+    changed name
+
+[33mcommit 1a55e84d1ec7e9f0558114f9b048d53872f285f1[m
+Author: Mounesh <mounesh@ajirasoft.com>
+Date:   Wed Sep 3 12:00:09 2025 +0530
+
+    nothing
+
+[33mcommit 0f836316002ddf18d1499128e7fddd315780c161[m
+Author: Mounesh <mounesh@ajirasoft.com>
+Date:   Wed Sep 3 11:58:26 2025 +0530
+
+    what
+
+[33mcommit 0cf8735eda3f0adb7006051f288b56d23de56dd3[m
+Author: Hemalatha <hemajayarajan05@gmail.com>
+Date:   Wed Sep 3 12:01:41 2025 +0530
+
+    created hema file
+
+[33mcommit 4f59113f318493067c40daf25e9c590ce0a29426[m[33m ([m[1;31morigin/copilot[m[33m)[m
+Merge: d2124a4 db55005
+Author: Mounesh <mounesh@ajirasoft.com>
+Date:   Wed Sep 3 12:17:01 2025 +0530
+
+    Merge remote-tracking branch 'origin' into copilot
+
+[33mcommit d2124a4dbae1913f9e436fde037d344803079ebc[m
+Merge: bc9532f 3ec9655 b714b78
+Author: Mounesh <mounesh@ajirasoft.com>
+Date:   Wed Sep 3 12:11:54 2025 +0530
+
+    Merge branch 'main', remote-tracking branch 'origin'
+
+[33mcommit db550050084cc809a293362bfc205707c8c9572b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/eren-yeager[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Taruun Prasath G S <taruunprasath@ajirasoft.com>
+Date:   Wed Sep 3 12:08:41 2025 +0530
+
+    Taruun | Hello Taruun
+
+[33mcommit 3ec96557f8e9736f5b576c8abee9de1d17465119[m
+Merge: c280080 30f7d0a
+Author: Taruun Prasath G S <taruunprasath@ajirasoft.com>
+Date:   Wed Sep 3 12:01:16 2025 +0530
+
+    Merge branch 'main' into rithiga
+
+[33mcommit bc9532f0d979ed374e0854252be4ec085f361191[m
+Author: Mounesh <mounesh@ajirasoft.com>
+Date:   Wed Sep 3 12:00:09 2025 +0530
+
+    nothing
+
+[33mcommit e544abe7cb15376657372168e454bb2fcf76eb9a[m
+Author: Mounesh <mounesh@ajirasoft.com>
+Date:   Wed Sep 3 11:58:26 2025 +0530
+
+    what
+
+[33mcommit c280080ba677be922b4dccd09b3c76e6c27bae4e[m
+Author: Rithiga <rithiga2026@gmail.com>
+Date:   Wed Sep 3 11:51:47 2025 +0530
+
+    Adding git.txt
+
+[33mcommit ebcb842614822580bd813a540faf29c1c416a369[m
+Merge: dd9d9b6 022cb13
+Author: taruunprasath-casa <taruunprasath@ajirasoft.com>
+Date:   Wed Sep 3 11:48:36 2025 +0530
+
+    Merge pull request #1 from taruunprasath-casa/main
+    
+    Add rithi.txt
+
+[33mcommit 022cb13efbff584c0a6e7dbf6dddbc28163c008e[m
+Author: Rithiga <rithiga2026@gmail.com>
+Date:   Wed Sep 3 11:41:37 2025 +0530
+
+    Adding rithiga.txt file
+
+[33mcommit 30f7d0a6355fd7ef1b5dbf03f898155c1bfceb37[m
+Author: Taruun Prasath G S <taruunprasath@ajirasoft.com>
+Date:   Wed Sep 3 11:27:11 2025 +0530
+
+    Taruun | made changes in log
+
+[33mcommit 12beae95f671b58525881aea809857bf60644548[m
+Author: Hemalatha <hemajayarajan05@gmail.com>
+Date:   Wed Sep 3 11:21:48 2025 +0530
+
+    Created hema file
+
+[33mcommit ac8e7692478d857d495df703fdd27199c611c49d[m[33m ([m[1;32mmain[m[33m)[m
+Author: Dakshinya Loganathan <dakshinya@ajirasoft.com>
+Date:   Wed Sep 3 11:17:54 2025 +0530
+
+    1st commit
+
+[33mcommit b714b7836d753b8dc71989e2ed44e7d8832bfbc1[m
+Author: Mounesh <mounesh@ajirasoft.com>
+Date:   Wed Sep 3 11:06:03 2025 +0530
+
+    changed name
+
+[33mcommit dd9d9b65292a4f89c2f816c964928d7cdee97a0f[m
+Author: Taruun Prasath G S <taruunprasath@ajirasoft.com>
+Date:   Wed Sep 3 10:58:38 2025 +0530
+
+    Taruun | first commit
